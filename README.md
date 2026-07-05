@@ -25,4 +25,3 @@ npm run lint    # comprobación de estilo de código (ESLint)
 
 El contador de la cesta se persiste en cliente y se muestra en la cabecera en cualquier vista.
 
-(Las decisiones de diseño se irán documentando aquí a medida que se implementen las distintas partes.)

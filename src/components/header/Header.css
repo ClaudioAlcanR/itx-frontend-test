@@ -1,0 +1,35 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1rem 1.5rem;
+  background-color: #1a1a2e;
+  color: #ffffff;
+}
+
+.header__brand {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.header__breadcrumbs {
+  flex: 1;
+}
+
+.header__breadcrumb-link {
+  color: #cccccc;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.header__breadcrumb-link:hover {
+  text-decoration: underline;
+}
+
+.header__cart {
+  font-size: 1rem;
+  font-weight: bold;
+}
